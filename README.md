@@ -1,3 +1,3 @@
 # craftship
 
-from VS
+from VS2
